@@ -2910,7 +2910,7 @@
                  "y":1504
                 }, 
                 {
-                 "class":"",
+                 "class":"area",
                  "height":796,
                  "id":20,
                  "name":"Zona silenciosa",
@@ -3286,8 +3286,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":34,
- "nextobjectid":25,
+ "nextlayerid":36,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "properties":[
         {
