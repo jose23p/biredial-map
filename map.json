@@ -2957,6 +2957,23 @@
                  "width":964,
                  "x":1053.33333333333,
                  "y":1028
+                }, 
+                {
+                 "class":"area",
+                 "height":460,
+                 "id":36,
+                 "name":"Silent",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":560,
+                 "x":2702,
+                 "y":3602
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3286,8 +3303,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":36,
- "nextobjectid":36,
+ "nextlayerid":37,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -3319,6 +3336,11 @@
          "name":"script",
          "type":"string",
          "value":"src\/main.ts"
+        }, 
+        {
+         "name":"tutorial",
+         "type":"bool",
+         "value":true
         }],
  "renderorder":"right-down",
  "tiledversion":"1.9.1",
