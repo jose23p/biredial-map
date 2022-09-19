@@ -2816,12 +2816,17 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Zona Privada C"
+                         "value":"Zona Privada"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2848,12 +2853,17 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Zona Privada B"
+                         "value":"Zona Privada"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2880,12 +2890,22 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Zona Privada A"
+                         "value":"Zona Privada"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"string",
+                         "value":"false"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2897,6 +2917,342 @@
                  "width":570,
                  "x":227.333333333333,
                  "y":1602
+                }, 
+                {
+                 "class":"area",
+                 "height":158.333333333333,
+                 "id":37,
+                 "name":"Zona Comedor 1",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Zona Privada"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"string",
+                         "value":"false"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":770.666666666666,
+                 "y":2017.66666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":158.333333333333,
+                 "id":38,
+                 "name":"Zona Comedor 2",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Zona Privada"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"string",
+                         "value":"false"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":1056.66666666667,
+                 "y":2017.66666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":158.333,
+                 "id":39,
+                 "name":"Zona Comedor 3",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Zona Privada"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"string",
+                         "value":"false"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":1058,
+                 "y":2207.8335
+                }, 
+                {
+                 "class":"area",
+                 "height":158.333,
+                 "id":40,
+                 "name":"Zona Comedor 4",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Zona Privada"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"string",
+                         "value":"false"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":772,
+                 "y":2210.8335
+                }, 
+                {
+                 "class":"area",
+                 "height":158.333,
+                 "id":41,
+                 "name":"Zona Comedor 5",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Zona Privada"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"string",
+                         "value":"false"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":769,
+                 "y":2402.8335
+                }, 
+                {
+                 "class":"area",
+                 "height":158.333,
+                 "id":42,
+                 "name":"Zona Comedor 6",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Zona Privada"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"string",
+                         "value":"false"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":1059,
+                 "y":2403.8335
+                }, 
+                {
+                 "class":"area",
+                 "height":158.333,
+                 "id":43,
+                 "name":"Zona Comedor 7",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Zona Privada"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"string",
+                         "value":"false"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":1057,
+                 "y":2594.8335
+                }, 
+                {
+                 "class":"area",
+                 "height":158.333,
+                 "id":44,
+                 "name":"Zona Comedor 8",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Zona Privada"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Presione espacio o tocar aqu\u00ed para entrar a la reuni\u00f3n"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"string",
+                         "value":"false"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":160,
+                 "x":770,
+                 "y":2594.8335
                 }, 
                 {
                  "class":"",
@@ -2943,11 +3299,6 @@
                          "value":"Auditorio"
                         }, 
                         {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":2
@@ -2957,23 +3308,6 @@
                  "width":964,
                  "x":1053.33333333333,
                  "y":1028
-                }, 
-                {
-                 "class":"area",
-                 "height":460,
-                 "id":36,
-                 "name":"Silent",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":560,
-                 "x":2702,
-                 "y":3602
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3304,7 +3638,7 @@
          "y":0
         }],
  "nextlayerid":37,
- "nextobjectid":37,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "properties":[
         {
