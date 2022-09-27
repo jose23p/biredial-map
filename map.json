@@ -3348,7 +3348,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.kerwa.ucr.ac.cr\/bitstream\/handle\/10669\/15087\/Recetario%20Curso%20Comidas%20y%20Tradiciones%202014.pdf?sequence=1&isAllowed=y"
+                         "value":"https:\/\/www.youtube.com\/embed\/MKkEwkSm-J4"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -6827,7 +6827,7 @@
          "margin":0,
          "name":"WA_Costa_Rica",
          "spacing":0,
-         "tilecount":840,
+         "tilecount":12,
          "tileheight":32,
          "tilewidth":32
         }],
